@@ -214,7 +214,7 @@ Pizza-Sales-Data-Analysis/
 
 ### Best & Worst Sellers
 
-![Best and Worst Sellers][(Dashboard/best_worst_sellers.png](https://github.com/Pranshu-k-Sharma/Pizza-Sales-Data-Analytics/blob/main/dashboard/best_worst_sellers.jpg))
+![Best and Worst Sellers](https://github.com/Pranshu-k-Sharma/Pizza-Sales-Data-Analytics/blob/main/dashboard/best_worst_sellers.jpg))
 
 ---
 
