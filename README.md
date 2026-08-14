@@ -210,7 +210,7 @@ Pizza-Sales-Data-Analysis/
 
 ### Sales Overview
 
-![Pizza Sales Dashboard](Dashboard/pizza_sales_dashboard.png)
+[![Pizza Sales Dashboard](Dashboard/pizza_sales_dashboard.png)](https://github.com/Pranshu-k-Sharma/Pizza-Sales-Data-Analytics/blob/main/dashboard/pizza_sales_dashboard.jpg)
 
 ### Best & Worst Sellers
 
